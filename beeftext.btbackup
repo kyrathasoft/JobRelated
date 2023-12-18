@@ -38,6 +38,58 @@
             "name": "ky_pto_requests",
             "snippet": "https://docs.google.com/spreadsheets/d/1xsCgVORpkvyHom1xSLcLZY2iL8ACYpeqbk1aXV7SXBQ",
             "uuid": "{ea7a86e1-ea56-4eda-b3e7-187d3024748c}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-18T07:52:12.238",
+            "description": "",
+            "enabled": true,
+            "group": "{574caedf-3532-4f47-8d57-93e83ca9173b}",
+            "keyword": "pmug_",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-18T07:52:25.700",
+            "name": "pmug_",
+            "snippet": "https://docs.google.com/spreadsheets/d/10LeAkgpkxRDa5UYNdz_ysin58QmrjheisOK8ETCYFoo",
+            "uuid": "{df52af17-4280-4276-b270-3607a128d205}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-18T07:54:45.340",
+            "description": "",
+            "enabled": true,
+            "group": "{574caedf-3532-4f47-8d57-93e83ca9173b}",
+            "keyword": "uds_tracker",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-18T07:54:58.852",
+            "name": "uds_tracker",
+            "snippet": "https://docs.google.com/spreadsheets/d/1ABHwhtHm-xWEpg1w1RJYg8CLfctzTj40LUGE20iAp_g",
+            "uuid": "{f4b3f4c1-6d75-4f02-b8f8-aeda9358ce5d}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-18T07:56:20.419",
+            "description": "",
+            "enabled": true,
+            "group": "{574caedf-3532-4f47-8d57-93e83ca9173b}",
+            "keyword": "ky_groups",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-18T07:56:32.067",
+            "name": "ky_groups",
+            "snippet": "https://docs.google.com/spreadsheets/d/18e1puYGeFZijIwMFPLxKaHIACwmuZfnMyjzoPKgTgoU",
+            "uuid": "{83baa673-2260-4d4b-a1e2-9d12689bdfdb}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-18T08:00:15.191",
+            "description": "",
+            "enabled": true,
+            "group": "{574caedf-3532-4f47-8d57-93e83ca9173b}",
+            "keyword": "intranet_",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-18T08:00:25.605",
+            "name": "intranet_",
+            "snippet": "https://sites.google.com/a/joingroups.com/groups-intranet/home?pli=1",
+            "uuid": "{48b2756b-58da-4085-bb6e-de76afb59638}"
         }
     ],
     "fileFormatVersion": 10,
