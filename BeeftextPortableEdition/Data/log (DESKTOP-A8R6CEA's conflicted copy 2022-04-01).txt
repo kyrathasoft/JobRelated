@@ -1,0 +1,4 @@
+2022-03-30 09:22:28.497 - INFO    - Beeftext started.
+2022-03-30 09:22:28.514 - ERROR   - The combo last use date/time file is not a valid JSON document
+2022-03-30 09:22:29.509 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-03-31 16:49:26.648 - INFO    - Update check started. Installed version is Beeftext 12.0.

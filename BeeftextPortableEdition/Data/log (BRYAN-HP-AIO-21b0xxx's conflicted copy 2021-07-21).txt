@@ -1,0 +1,7 @@
+2021-07-19 14:02:00.435 - INFO    - Beeftext started.
+2021-07-19 17:03:51.598 - INFO    - Update check started. Installed version is Beeftext 8.1.
+2021-07-19 17:03:52.512 - INFO    - Downloaded latest version information. Latest version is Beeftext 9.1.
+2021-07-19 17:03:52.513 - INFO    - A new version is available.
+2021-07-19 17:03:52.513 - INFO    - Update check ended.
+2021-07-19 17:03:52.513 - INFO    - Beeftext v9.1 is available for download.
+2021-07-21 10:37:55.375 - INFO    - Update check started. Installed version is Beeftext 8.1.

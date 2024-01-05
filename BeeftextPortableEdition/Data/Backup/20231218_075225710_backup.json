@@ -1,0 +1,54 @@
+{
+    "combos": [
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-18T07:35:43.599",
+            "description": "",
+            "enabled": true,
+            "group": "{574caedf-3532-4f47-8d57-93e83ca9173b}",
+            "keyword": "ecw_",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-18T07:35:54.364",
+            "name": "ecw_",
+            "snippet": "https://nyretoapp.ecwcloud.com/mobiledoc/jsp/webemr/login/newLogin.jsp",
+            "uuid": "{c6bc66d4-3cfe-461d-9bca-27cf45ee52b9}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-18T07:36:56.331",
+            "description": "",
+            "enabled": true,
+            "group": "{574caedf-3532-4f47-8d57-93e83ca9173b}",
+            "keyword": "ky_cslr_schedules",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-18T07:37:10.820",
+            "name": "ky_cslr_schedules",
+            "snippet": "https://docs.google.com/spreadsheets/d/1trC7HtlQ0bYp4fWN-8-KLuk78n8r44GXbtdKE1POsfo",
+            "uuid": "{2ec8aa1e-5e5d-4889-9ac7-d0dbff3895f3}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-18T07:38:37.066",
+            "description": "",
+            "enabled": true,
+            "group": "{574caedf-3532-4f47-8d57-93e83ca9173b}",
+            "keyword": "ky_pto_requests",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-18T07:38:56.136",
+            "name": "ky_pto_requests",
+            "snippet": "https://docs.google.com/spreadsheets/d/1xsCgVORpkvyHom1xSLcLZY2iL8ACYpeqbk1aXV7SXBQ",
+            "uuid": "{ea7a86e1-ea56-4eda-b3e7-187d3024748c}"
+        }
+    ],
+    "fileFormatVersion": 10,
+    "groups": [
+        {
+            "creationDateTime": "2023-12-18T07:31:03.408",
+            "description": "The default group.",
+            "enabled": true,
+            "modificationDateTime": "2023-12-18T07:31:03.408",
+            "name": "Default Group",
+            "uuid": "{574caedf-3532-4f47-8d57-93e83ca9173b}"
+        }
+    ]
+}

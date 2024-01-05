@@ -1,0 +1,2 @@
+2023-03-31 09:13:46.907 - INFO    - Beeftext started.
+2023-03-31 09:13:46.938 - ERROR   - The combo last use date/time file is not a valid JSON document

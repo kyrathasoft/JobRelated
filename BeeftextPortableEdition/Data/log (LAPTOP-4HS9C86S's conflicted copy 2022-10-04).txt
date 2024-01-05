@@ -1,0 +1,5 @@
+2022-10-02 19:25:35.804 - INFO    - Beeftext started.
+2022-10-03 14:34:17.479 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-10-04 14:54:13.680 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-10-04 15:07:51.798 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221004_150751796_backup.json
+2022-10-04 15:07:51.806 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220819_155429998_backup.json

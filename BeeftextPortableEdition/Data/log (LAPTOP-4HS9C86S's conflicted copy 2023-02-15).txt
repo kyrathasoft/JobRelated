@@ -1,0 +1,23 @@
+2023-02-10 14:37:22.408 - INFO    - Beeftext started.
+2023-02-11 15:02:59.456 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2023-02-12 15:02:58.455 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2023-02-13 08:57:45.454 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230213_085745446_backup.json
+2023-02-13 08:57:45.458 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221205_100139842_backup.json
+2023-02-13 08:58:29.627 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230213_085829625_backup.json
+2023-02-13 08:58:29.629 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221205_100212618_backup.json
+2023-02-13 09:00:11.043 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230213_090011043_backup.json
+2023-02-13 09:00:11.047 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221206_112912856_backup.json
+2023-02-13 09:02:18.869 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230213_090218868_backup.json
+2023-02-13 09:02:18.883 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221206_141903414_backup.json
+2023-02-13 09:03:27.284 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230213_090327284_backup.json
+2023-02-13 09:03:27.287 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221207_141355684_backup.json
+2023-02-13 09:04:18.974 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230213_090418972_backup.json
+2023-02-13 09:04:18.977 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221214_075318128_backup.json
+2023-02-13 11:50:21.564 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230213_115021562_backup.json
+2023-02-13 11:50:21.566 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221214_090244886_backup.json
+2023-02-13 11:50:57.704 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230213_115057703_backup.json
+2023-02-13 11:50:57.707 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221215_154726658_backup.json
+2023-02-13 15:02:57.378 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2023-02-13 18:31:25.282 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230213_183125275_backup.json
+2023-02-13 18:31:25.286 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221219_094310105_backup.json
+2023-02-14 18:56:37.974 - INFO    - Update check started. Installed version is Beeftext 12.0.

@@ -1,0 +1,15 @@
+2022-04-12 17:20:16.733 - INFO    - Beeftext started.
+2022-04-12 17:20:16.752 - ERROR   - The combo last use date/time file is not a valid JSON document
+2022-04-12 19:40:13.233 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220412_194013233_backup.json
+2022-04-12 19:40:13.249 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220307_100052340_backup.json
+2022-04-12 19:40:43.677 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220412_194043677_backup.json
+2022-04-12 19:40:43.682 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220307_101818572_backup.json
+2022-04-12 21:36:35.915 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220412_213635915_backup.json
+2022-04-12 21:36:35.920 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220308_210743902_backup.json
+2022-04-13 16:01:54.977 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-04-14 16:01:55.584 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-04-15 16:01:55.799 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-04-15 17:53:25.014 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220415_175325013_backup.json
+2022-04-15 17:53:25.017 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220310_132327599_backup.json
+2022-04-15 17:53:42.153 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220415_175342151_backup.json
+2022-04-15 17:53:42.156 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220310_182853201_backup.json

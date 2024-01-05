@@ -1,0 +1,5 @@
+2023-05-09 10:34:52.830 - INFO    - Beeftext started.
+2023-05-09 11:51:43.756 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230509_115143754_backup.json
+2023-05-09 11:51:43.757 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230309_120011698_backup.json
+2023-05-10 11:19:58.300 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230510_111958300_backup.json
+2023-05-10 11:19:58.309 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230309_183117830_backup.json

@@ -1,0 +1,6 @@
+2023-09-29 17:21:04.798 - INFO    - Beeftext started.
+2023-09-29 17:37:41.234 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230929_173741218_backup.json
+2023-09-29 17:37:41.237 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230911_070718435_backup.json
+2023-09-29 19:46:46.209 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2023-09-30 19:46:46.544 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2023-10-01 19:46:46.861 - INFO    - Update check started. Installed version is Beeftext 12.0.

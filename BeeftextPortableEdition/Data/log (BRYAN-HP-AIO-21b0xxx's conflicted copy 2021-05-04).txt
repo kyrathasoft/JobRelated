@@ -1,0 +1,8 @@
+2021-05-03 08:39:29.487 - INFO    - Beeftext started.
+2021-05-03 08:39:32.266 - INFO    - Update check started. Installed version is Beeftext 8.1.
+2021-05-03 08:39:33.062 - INFO    - Downloaded latest version information. Latest version is Beeftext 8.1.
+2021-05-03 08:39:33.062 - INFO    - No new version is available.
+2021-05-03 08:39:33.062 - INFO    - Update check ended.
+2021-05-03 09:00:37.179 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210503_090037170_backup.json
+2021-05-03 09:00:37.179 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210418_102033548_backup.json
+2021-05-04 09:39:54.840 - INFO    - Update check started. Installed version is Beeftext 8.1.

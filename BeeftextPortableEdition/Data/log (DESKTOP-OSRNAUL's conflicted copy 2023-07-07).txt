@@ -1,0 +1,8 @@
+2023-07-05 15:16:30.112 - INFO    - Beeftext started.
+2023-07-05 15:16:30.128 - ERROR   - The combo last use date/time file is not a valid JSON document
+2023-07-05 16:51:39.894 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230705_165139893_backup.json
+2023-07-05 16:51:39.895 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230601_133653869_backup.json
+2023-07-06 13:21:58.145 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230706_132158144_backup.json
+2023-07-06 13:21:58.151 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230602_181825708_backup.json
+2023-07-06 13:23:24.257 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230706_132324256_backup.json
+2023-07-06 13:23:24.257 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230606_063522747_backup.json

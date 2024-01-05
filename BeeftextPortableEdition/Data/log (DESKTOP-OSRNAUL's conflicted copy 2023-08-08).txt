@@ -1,0 +1,17 @@
+2023-08-07 08:32:24.386 - INFO    - Beeftext started.
+2023-08-07 08:32:24.455 - ERROR   - The combo last use date/time file is not a valid JSON document
+2023-08-07 08:32:27.569 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2023-08-07 14:50:56.939 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230807_145056939_backup.json
+2023-08-07 14:50:56.939 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230730_185548355_backup.json
+2023-08-07 14:51:21.850 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230807_145121850_backup.json
+2023-08-07 14:51:21.850 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230730_185616341_backup.json
+2023-08-07 14:51:37.332 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230807_145137332_backup.json
+2023-08-07 14:51:37.349 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230730_185629841_backup.json
+2023-08-07 14:51:47.823 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230807_145147823_backup.json
+2023-08-07 14:51:47.823 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230730_185647449_backup.json
+2023-08-07 14:51:55.151 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230807_145155150_backup.json
+2023-08-07 14:51:55.152 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230730_185704526_backup.json
+2023-08-07 14:52:38.571 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230807_145238571_backup.json
+2023-08-07 14:52:38.571 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230731_083855903_backup.json
+2023-08-07 16:38:54.406 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230807_163854405_backup.json
+2023-08-07 16:38:54.407 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230731_101116189_backup.json

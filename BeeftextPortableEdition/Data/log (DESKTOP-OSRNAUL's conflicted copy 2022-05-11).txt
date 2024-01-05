@@ -1,0 +1,9 @@
+2022-05-09 12:37:44.207 - INFO    - Beeftext started.
+2022-05-09 13:55:21.890 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220509_135521889_backup.json
+2022-05-09 13:55:21.891 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220421_112214694_backup.json
+2022-05-09 14:23:11.647 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220509_142311646_backup.json
+2022-05-09 14:23:11.648 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220422_101618806_backup.json
+2022-05-10 11:13:56.904 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-05-10 12:56:45.822 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220510_125645821_backup.json
+2022-05-10 12:56:45.823 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220422_165323144_backup.json
+2022-05-11 09:08:00.196 - INFO    - Application exited with return code 0

@@ -1,0 +1,4 @@
+2021-06-12 09:27:25.356 - INFO    - Beeftext started.
+2021-06-14 08:16:36.144 - INFO    - Update check started. Installed version is Beeftext 8.1.
+2021-06-14 11:13:26.700 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210614_111326700_backup.json
+2021-06-14 11:13:26.716 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210602_210434490_backup.json

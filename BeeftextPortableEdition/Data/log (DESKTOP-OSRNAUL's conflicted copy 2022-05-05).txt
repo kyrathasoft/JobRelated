@@ -1,0 +1,11 @@
+2022-05-03 14:35:43.524 - INFO    - Beeftext started.
+2022-05-03 14:35:43.524 - ERROR   - The combo last use date/time file is not a valid JSON document
+2022-05-03 14:53:51.554 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220503_145351554_backup.json
+2022-05-03 14:53:51.554 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220412_111812015_backup.json
+2022-05-03 14:54:30.267 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220503_145430267_backup.json
+2022-05-03 14:54:30.267 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220412_194013233_backup.json
+2022-05-04 14:06:53.277 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220504_140653277_backup.json
+2022-05-04 14:06:53.277 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220415_175325013_backup.json
+2022-05-04 14:22:44.333 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-05-04 14:29:30.195 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220504_142930194_backup.json
+2022-05-04 14:29:30.196 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220415_175342151_backup.json
