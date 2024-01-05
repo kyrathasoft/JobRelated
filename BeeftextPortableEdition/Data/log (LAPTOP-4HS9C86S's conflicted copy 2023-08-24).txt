@@ -1,0 +1,7 @@
+2023-08-21 17:41:54.553 - INFO    - Beeftext started.
+2023-08-21 17:41:54.564 - ERROR   - The combo last use date/time file is not a valid JSON document
+2023-08-21 18:20:47.311 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230821_182047310_backup.json
+2023-08-21 18:20:47.311 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230812_163246343_backup.json
+2023-08-21 18:34:49.585 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2023-08-22 18:34:49.790 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2023-08-23 18:34:50.156 - INFO    - Update check started. Installed version is Beeftext 12.0.

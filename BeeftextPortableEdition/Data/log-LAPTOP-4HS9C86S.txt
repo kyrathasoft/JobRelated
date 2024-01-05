@@ -1,0 +1,21 @@
+2023-09-14 17:46:31.013 - INFO    - Beeftext started.
+2023-09-14 17:47:06.423 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230914_174706423_backup.json
+2023-09-14 17:47:06.423 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230826_130131912_backup.json
+2023-09-14 19:36:07.030 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2023-09-15 17:51:21.459 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230915_175121458_backup.json
+2023-09-15 17:51:21.461 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230826_140231391_backup.json
+2023-09-15 19:36:07.272 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2023-09-16 07:18:17.470 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230916_071817470_backup.json
+2023-09-16 07:18:17.470 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230826_145958971_backup.json
+2023-09-16 07:20:34.814 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230916_072034808_backup.json
+2023-09-16 07:20:34.825 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230826_150051571_backup.json
+2023-09-16 07:22:15.614 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230916_072215614_backup.json
+2023-09-16 07:22:15.614 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230826_202955850_backup.json
+2023-09-16 07:25:37.379 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230916_072537378_backup.json
+2023-09-16 07:25:37.379 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230827_180121154_backup.json
+2023-09-16 07:26:49.632 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230916_072649632_backup.json
+2023-09-16 07:26:49.647 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230827_180220390_backup.json
+2023-09-16 07:27:56.155 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230916_072756155_backup.json
+2023-09-16 07:27:56.158 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230827_182344292_backup.json
+2023-09-16 07:30:00.085 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230916_073000081_backup.json
+2023-09-16 07:30:00.097 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230827_184631520_backup.json

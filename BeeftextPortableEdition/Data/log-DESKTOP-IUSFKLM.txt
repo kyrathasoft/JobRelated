@@ -1,0 +1,7 @@
+2023-09-15 09:09:56.083 - INFO    - Beeftext started.
+2023-09-15 09:31:40.274 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230915_093140274_backup.json
+2023-09-15 09:31:40.274 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230826_130146962_backup.json
+2023-09-15 12:06:09.730 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230915_120609730_backup.json
+2023-09-15 12:06:09.730 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230826_130206020_backup.json
+2023-09-15 13:56:39.940 - INFO    - Backed up combo file to C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230915_135639940_backup.json
+2023-09-15 13:56:39.955 - INFO    - Removed backup file C:\Users\kyrat\OneDrive\work_related\BeeftextPortableEdition\Data\Backup\20230826_130225711_backup.json

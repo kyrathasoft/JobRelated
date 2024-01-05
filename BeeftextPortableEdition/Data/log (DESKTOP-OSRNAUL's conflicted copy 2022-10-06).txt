@@ -1,0 +1,14 @@
+2022-10-04 08:52:38.946 - INFO    - Beeftext started.
+2022-10-04 10:55:23.039 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221004_105523039_backup.json
+2022-10-04 10:55:23.039 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220819_092421073_backup.json
+2022-10-04 13:54:11.594 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221004_135411593_backup.json
+2022-10-04 13:54:11.601 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220819_155143597_backup.json
+2022-10-04 14:34:21.969 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-10-05 12:56:08.813 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221005_125608812_backup.json
+2022-10-05 12:56:08.820 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220819_155809541_backup.json
+2022-10-05 15:59:42.421 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221005_155942420_backup.json
+2022-10-05 15:59:42.427 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220820_074135775_backup.json
+2022-10-06 08:29:05.148 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221006_082905147_backup.json
+2022-10-06 08:29:05.150 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220821_150155855_backup.json
+2022-10-06 08:29:20.612 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221006_082920611_backup.json
+2022-10-06 08:29:20.613 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220826_093352047_backup.json

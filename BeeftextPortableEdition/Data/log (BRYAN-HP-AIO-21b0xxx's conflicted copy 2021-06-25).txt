@@ -1,0 +1,19 @@
+2021-06-24 08:53:48.214 - INFO    - Beeftext started.
+2021-06-24 09:34:30.325 - INFO    - Update check started. Installed version is Beeftext 8.1.
+2021-06-24 09:34:31.136 - INFO    - Downloaded latest version information. Latest version is Beeftext 8.1.
+2021-06-24 09:34:31.136 - INFO    - No new version is available.
+2021-06-24 09:34:31.136 - INFO    - Update check ended.
+2021-06-24 11:20:26.062 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210624_112026058_backup.json
+2021-06-24 11:20:26.077 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210614_195345711_backup.json
+2021-06-24 12:36:40.891 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210624_123640891_backup.json
+2021-06-24 12:36:40.907 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210615_121522945_backup.json
+2021-06-24 13:16:29.428 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210624_131629390_backup.json
+2021-06-24 13:16:29.436 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210616_104356300_backup.json
+2021-06-25 08:45:42.189 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210625_084542186_backup.json
+2021-06-25 08:45:42.196 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210617_153448493_backup.json
+2021-06-25 09:34:31.191 - INFO    - Update check started. Installed version is Beeftext 8.1.
+2021-06-25 09:34:32.010 - INFO    - Downloaded latest version information. Latest version is Beeftext 8.1.
+2021-06-25 09:34:32.010 - INFO    - No new version is available.
+2021-06-25 09:34:32.011 - INFO    - Update check ended.
+2021-06-25 09:53:52.134 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210625_095352121_backup.json
+2021-06-25 09:53:52.144 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20210617_153455012_backup.json

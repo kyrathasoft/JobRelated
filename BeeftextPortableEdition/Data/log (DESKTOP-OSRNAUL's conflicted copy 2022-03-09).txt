@@ -1,0 +1,16 @@
+2022-03-02 12:19:17.489 - INFO    - Beeftext started.
+2022-03-05 01:07:09.798 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-03-06 01:07:10.008 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-03-07 01:07:11.271 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-03-07 09:23:52.776 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220307_092352776_backup.json
+2022-03-07 09:23:52.777 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220217_100633666_backup.json
+2022-03-07 09:43:14.384 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220307_094314383_backup.json
+2022-03-07 09:43:14.384 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220217_100651318_backup.json
+2022-03-07 09:50:23.224 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220307_095023223_backup.json
+2022-03-07 09:50:23.225 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220217_100710925_backup.json
+2022-03-07 10:00:52.341 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220307_100052340_backup.json
+2022-03-07 10:00:52.342 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220217_100727208_backup.json
+2022-03-07 10:18:18.573 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220307_101818572_backup.json
+2022-03-07 10:18:18.574 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20220217_103201513_backup.json
+2022-03-08 01:07:11.413 - INFO    - Update check started. Installed version is Beeftext 12.0.
+2022-03-09 01:07:13.043 - INFO    - Update check started. Installed version is Beeftext 12.0.

@@ -1,0 +1,14 @@
+2023-02-07 11:56:29.838 - INFO    - Beeftext started.
+2023-02-07 11:56:29.853 - ERROR   - The combo last use date/time file is not a valid JSON document
+2023-02-08 10:20:18.713 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230208_102018712_backup.json
+2023-02-08 10:20:18.713 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221128_151933911_backup.json
+2023-02-08 10:22:07.561 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230208_102207560_backup.json
+2023-02-08 10:22:07.567 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221201_165510877_backup.json
+2023-02-09 10:52:31.334 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230209_105231332_backup.json
+2023-02-09 10:52:31.336 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221201_170836650_backup.json
+2023-02-09 10:52:57.250 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230209_105257249_backup.json
+2023-02-09 10:52:57.251 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221201_173700049_backup.json
+2023-02-09 11:08:28.179 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230209_110828177_backup.json
+2023-02-09 11:08:28.180 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221202_151115733_backup.json
+2023-02-09 11:28:26.069 - INFO    - Backed up combo file to C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20230209_112826068_backup.json
+2023-02-09 11:28:26.070 - INFO    - Removed backup file C:\Users\kyrat\Dropbox\GroupsRecovTog\BeeftextPortableEdition\Data\Backup\20221202_152613841_backup.json
